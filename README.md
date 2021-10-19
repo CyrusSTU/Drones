@@ -1,7 +1,7 @@
 # Drones
 For ProjectInterior
 Members:
-Project Lead/Tester: George Day
-Designer/Coder: Tim Ulberg
-Business Analyst: Zina Narayan
-Zee Du Plessis
+Project Lead/Tester: George
+Designer/Coder: Tim
+Business Analyst: Zina
+Zee
