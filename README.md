@@ -2,6 +2,6 @@
 For ProjectInterior
 Members:
 Project Lead/Tester: George
-Designer/Coder: Tim
+Coder: Tim
 Business Analyst: Zina
-Zee
+Zee: Designer
