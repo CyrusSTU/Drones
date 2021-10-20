@@ -4,4 +4,4 @@ Members:
 Project Lead/Tester: George
 Coder: Tim
 Business Analyst: Zina
-Zee: Designer
+Designer: Zee
